@@ -20,22 +20,22 @@ $ git status
 
 - Stage (Add):
 ```
-
+$ git add -A
 ```
 
 - Commit:
 ```
-
+$ git commit -m "commit message"
 ```
 
 ## Write Basic GitHub Commands Below
 
 - Push:
 ```
-
+git push orign master
 ```
 
 - Check Remote:
 ```
-
+git remote -v
 ```
