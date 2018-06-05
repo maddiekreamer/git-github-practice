@@ -10,12 +10,12 @@ Hello World
 
 - Clone a Repository:
 ```
-
+$ git clone *url*
 ```
 
 - Check Status:
 ```
-
+$ git status
 ```
 
 - Stage (Add):
